@@ -1,0 +1,5 @@
+Program Statement - Medicine Tracker
+A medicine tracker app helps you keep track of the days on which you have to take your medicine. 
+The app reminds her the number of days left for the medicine to be taken.
+Ask a user to get the day on which he took the medicine and its cycle.
+Using the input, display the day on which next dose is scheduled.
