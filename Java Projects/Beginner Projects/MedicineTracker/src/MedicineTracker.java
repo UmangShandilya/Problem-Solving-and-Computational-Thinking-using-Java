@@ -21,7 +21,6 @@ public class MedicineTracker
     {
         String dayOfTheWeek = "";
         int upcomingDose = (lastDay + doseCycle) % 7;
-        System.out.println(upcomingDose);
         String[] daysInAWeek = {"Sunday","Monday","Tuesday","Wednesday","Thursday","Friday","Saturday"};
         if(upcomingDose == 0)
         {
