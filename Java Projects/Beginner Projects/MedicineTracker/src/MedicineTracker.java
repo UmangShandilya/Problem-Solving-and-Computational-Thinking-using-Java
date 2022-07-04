@@ -16,7 +16,10 @@ public class MedicineTracker
       System.out.println("Your next dose is scheduled on : " + nextDose);
     }
 
-    //The method below predicts the day on which next dose is to be taken.
+    /*
+    The method take the input of dose cycle and the last day on which medicine was taken and returns the next
+    scheduled day for the upcoming dose.
+    */
     public String dayPrediction(int lastDay, int doseCycle)
     {
         String dayOfTheWeek = "";
