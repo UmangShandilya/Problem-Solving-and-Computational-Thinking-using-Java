@@ -1,4 +1,4 @@
-## Practice Statement - World of Vehicles 
+## Program Statement - Lukxtech Motors
  
 **Lukxtech, a leading vehicle manufacturer, has organized a competition to help select the design of its next generation remote vehicle monitoring system. ​
 
